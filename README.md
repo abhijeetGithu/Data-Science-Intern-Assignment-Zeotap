@@ -2,7 +2,7 @@
 # Data Science Intern Assignment - Zeotap
 
 **Applicant Name:** Abhijeet Singh  
-**GitHub Link:** [Your GitHub Link](Your_GitHub_URL)  
+**GitHub Link:** [Your GitHub Link](https://github.com/abhijeetGithu)  
 **Date of Submission:** January 27, 2025
 
 ## Assignment Overview
